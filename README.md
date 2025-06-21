@@ -7,7 +7,7 @@ I’m a lifelong learner who enjoys staying updated in today’s fast-moving tec
 When I’m not working on building my future and dreams, you’ll likely find me watching movies, enjoying a good cup of coffee, or relaxing by a river or in a forest. I’m also a fan of staying active, catching a new gym is part of the adventure 🌱.
 
 🔍 **IMPORTANT NOTE:**  
-Please start with the `DETAILS` repository to understand the purpose of my portfolio.  
+Please start with the `Details-remote-portfolio` repository to understand the purpose of my portfolio.  
 
 
 
